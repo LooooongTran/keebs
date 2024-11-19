@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+(c) Copyright 3Dconnexion. All rights reserved. 
+$Revision$
+-->
+<AppCfg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Default="false" CfgFormatVersion="1.3" ThisFileVersion="1.9">
+  <AppInfo>
+    <Signature>
+      <Name>STR_EXPLORER_BACKGROUND</Name>
+    </Signature>
+    <Options />
+  </AppInfo>
+  <CfgProperties>
+    <ID>ID_STR_EXPLORER_BACKGROUND</ID>
+    <Name>STR_EXPLORER_BACKGROUND</Name>
+    <InheritsFromID>ID_STR_EXPLORER_BACKGROUND</InheritsFromID>
+  </CfgProperties>
+  <Devices>
+    <Device>
+      <ID>ID_ProductID_C626</ID>
+      <ButtonBank Default="true">
+        <Name>STR_DEFAULT_BUTTONBANK</Name>
+        <ID>Default</ID>
+        <Button>
+          <Input>
+            <ActionID>HIDButton_1</ActionID>
+          </Input>
+          <Output>
+            <ActionID>HIDMouse_Right</ActionID>
+          </Output>
+        </Button>
+        <Button>
+          <Input>
+            <ActionID>HIDButton_2</ActionID>
+          </Input>
+          <Output>
+            <ActionID>HIDMouse_Left</ActionID>
+          </Output>
+        </Button>
+      </ButtonBank>
+    </Device>
+  </Devices>
+  <AuthorInfo>
+    <DriverVersion>17.7.3.18412</DriverVersion>
+    <LastChange>
+      <Tool>3DxSmartUI.exe</Tool>
+      <Version>1.2.21138.18392</Version>
+      <Date>5/28/2021 6:36:52 PM UTC</Date>
+      <User>ltran</User>
+    </LastChange>
+  </AuthorInfo>
+</AppCfg>
