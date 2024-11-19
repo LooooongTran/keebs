@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+<profileinfo name="Long Ducky Config"/>
+<keyitems>
+<item fn_layer="0" key_code="57" layout_value="0" layout_desc="" macro_type="2" macro_value="175" macro_value2="0" macro_value3="0" macro_desc="Fn"/>
+<item fn_layer="1" key_code="13" layout_value="0" layout_desc="" macro_type="2" macro_value="80" macro_value2="0" macro_value3="0" macro_desc="←"/>
+<item fn_layer="1" key_code="12" layout_value="0" layout_desc="" macro_type="2" macro_value="82" macro_value2="0" macro_value3="0" macro_desc="↑"/>
+<item fn_layer="1" key_code="14" layout_value="0" layout_desc="" macro_type="2" macro_value="81" macro_value2="0" macro_value3="0" macro_desc="↓"/>
+<item fn_layer="1" key_code="15" layout_value="0" layout_desc="" macro_type="2" macro_value="79" macro_value2="0" macro_value3="0" macro_desc="→"/>
+<item fn_layer="1" key_code="42" layout_value="0" layout_desc="" macro_type="2" macro_value="76" macro_value2="0" macro_value3="0" macro_desc="Del"/>
+<item fn_layer="1" key_code="44" layout_value="0" layout_desc="" macro_type="2" macro_value="40" macro_value2="0" macro_value3="0" macro_desc="Enter"/>
+<item fn_layer="1" key_code="4" layout_value="0" layout_desc="" macro_type="2" macro_value="92" macro_value2="0" macro_value3="0" macro_desc="4"/>
+<item fn_layer="1" key_code="22" layout_value="0" layout_desc="" macro_type="2" macro_value="90" macro_value2="0" macro_value3="0" macro_desc="2"/>
+<item fn_layer="1" key_code="7" layout_value="0" layout_desc="" macro_type="2" macro_value="94" macro_value2="0" macro_value3="0" macro_desc="6"/>
+<item fn_layer="1" key_code="26" layout_value="0" layout_desc="" macro_type="2" macro_value="96" macro_value2="0" macro_value3="0" macro_desc="8"/>
+<item fn_layer="1" key_code="30" layout_value="0" layout_desc="" macro_type="2" macro_value="58" macro_value2="0" macro_value3="0" macro_desc="F1"/>
+<item fn_layer="1" key_code="31" layout_value="0" layout_desc="" macro_type="2" macro_value="59" macro_value2="0" macro_value3="0" macro_desc="F2"/>
+<item fn_layer="1" key_code="32" layout_value="0" layout_desc="" macro_type="2" macro_value="60" macro_value2="0" macro_value3="0" macro_desc="F3"/>
+<item fn_layer="1" key_code="33" layout_value="0" layout_desc="" macro_type="2" macro_value="61" macro_value2="0" macro_value3="0" macro_desc="F4"/>
+<item fn_layer="1" key_code="34" layout_value="0" layout_desc="" macro_type="2" macro_value="62" macro_value2="0" macro_value3="0" macro_desc="F5"/>
+<item fn_layer="1" key_code="35" layout_value="0" layout_desc="" macro_type="2" macro_value="63" macro_value2="0" macro_value3="0" macro_desc="F6"/>
+<item fn_layer="1" key_code="36" layout_value="0" layout_desc="" macro_type="2" macro_value="64" macro_value2="0" macro_value3="0" macro_desc="F7"/>
+<item fn_layer="1" key_code="37" layout_value="0" layout_desc="" macro_type="2" macro_value="65" macro_value2="0" macro_value3="0" macro_desc="F8"/>
+<item fn_layer="1" key_code="38" layout_value="0" layout_desc="" macro_type="2" macro_value="66" macro_value2="0" macro_value3="0" macro_desc="F9"/>
+<item fn_layer="1" key_code="39" layout_value="0" layout_desc="" macro_type="2" macro_value="67" macro_value2="0" macro_value3="0" macro_desc="F10"/>
+<item fn_layer="1" key_code="45" layout_value="0" layout_desc="" macro_type="2" macro_value="68" macro_value2="0" macro_value3="0" macro_desc="F11"/>
+<item fn_layer="1" key_code="46" layout_value="0" layout_desc="" macro_type="2" macro_value="69" macro_value2="0" macro_value3="0" macro_desc="F12"/>
+<item fn_layer="1" key_code="20" layout_value="0" layout_desc="" macro_type="5" macro_value="1" macro_value2="0" macro_value3="0" macro_desc="Left Click"/>
+<item fn_layer="1" key_code="8" layout_value="0" layout_desc="" macro_type="5" macro_value="3" macro_value2="0" macro_value3="0" macro_desc="Right Click"/>
+<item fn_layer="1" key_code="21" layout_value="0" layout_desc="" macro_type="5" macro_value="5" macro_value2="0" macro_value3="0" macro_desc="Scroll Up"/>
+<item fn_layer="1" key_code="9" layout_value="0" layout_desc="" macro_type="5" macro_value="6" macro_value2="0" macro_value3="0" macro_desc="Scroll Down"/>
+</keyitems>
+</profile>
